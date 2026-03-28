@@ -41,7 +41,7 @@ The fastest way to run the project is using **Docker Compose**.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-pro.git
+git clone https://github.com/emenybouchoucha/stock-pro.git
 cd stock-pro
 ```
 
